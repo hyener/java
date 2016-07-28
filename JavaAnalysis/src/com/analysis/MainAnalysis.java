@@ -3,8 +3,9 @@ package com.analysis;
 public class MainAnalysis {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Test dosyalarý burada olacak
 		System.out.println("Test Main Analysis Project");
+		
 	}
 
 }
